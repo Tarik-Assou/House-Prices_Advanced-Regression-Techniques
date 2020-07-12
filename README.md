@@ -1,4 +1,7 @@
 # House-Prices_Advanced-Regression-Techniques
+
+![Scores of models](https://user-images.githubusercontent.com/67377289/87241549-a7204c80-c424-11ea-8937-7b22c9c6984f.PNG)
+
 ## The Goal
 - Each row in the dataset describes the characteristics of a house.
 - My goal is to predict the SalePrice, given these features.
